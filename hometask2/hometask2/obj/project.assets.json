@@ -8,26 +8,31 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Тим\\.nuget\\packages\\": {}
+    "C:\\Users\\Тим\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\hometask2\\hometask2\\hometask2.csproj",
+      "projectUniqueName": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\HomeTasks\\hometask2\\hometask2\\hometask2.csproj",
       "projectName": "hometask2",
-      "projectPath": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\hometask2\\hometask2\\hometask2.csproj",
+      "projectPath": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\HomeTasks\\hometask2\\hometask2\\hometask2.csproj",
       "packagesPath": "C:\\Users\\Тим\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\hometask2\\hometask2\\obj\\",
+      "outputPath": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\HomeTasks\\hometask2\\hometask2\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\Тим\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

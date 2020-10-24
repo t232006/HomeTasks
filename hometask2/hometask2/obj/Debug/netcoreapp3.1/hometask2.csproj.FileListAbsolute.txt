@@ -11,3 +11,16 @@ C:\Users\Тим\Desktop\практика программирование\Sharp\
 C:\Users\Тим\Desktop\практика программирование\Sharp\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.pdb
 C:\Users\Тим\Desktop\практика программирование\Sharp\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.genruntimeconfig.cache
 C:\Users\Тим\Desktop\практика программирование\Sharp\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.csprojAssemblyReference.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\bin\Debug\netcoreapp3.1\hometask2.exe
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\bin\Debug\netcoreapp3.1\hometask2.deps.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\bin\Debug\netcoreapp3.1\hometask2.runtimeconfig.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\bin\Debug\netcoreapp3.1\hometask2.runtimeconfig.dev.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\bin\Debug\netcoreapp3.1\hometask2.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\bin\Debug\netcoreapp3.1\hometask2.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.AssemblyInfoInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.AssemblyInfo.cs
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.genruntimeconfig.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\HomeTasks\hometask2\hometask2\obj\Debug\netcoreapp3.1\hometask2.csprojAssemblyReference.cache
