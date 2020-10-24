@@ -85,13 +85,13 @@ namespace Hometask2
         {
             if (currentInd < 18.5)
             {
-                float delta = ((float)(18.5) - currentInd) * Height * Height / (100 * 100);    
-                return ($"Необходимо добрать {delta + Weight:f0} килограмм");
+                float normWeight = (float)(18.5) * Height * Height / (100 * 100);    
+                return ($"Необходимо добрать {Math.Ceiling(normWeight - Weight)} килограмм"); //to add as least 1 kg
             }
-            if (Weight > 25)
+            if (currentInd > 25)
             {
-                float delta = (currentInd - 25) * Height * Height / (100 * 100);
-                return ($"Необходимо сбросить {Weight - delta:f0} килограмм");
+                float normWeight = 25 * Height * Height / (100 * 100);
+                return ($"Необходимо сбросить {Math.Ceiling( Weight - normWeight)} килограмм");//to drop as least 1 kg
             }
             else return ("Ничего не надо делать, вроде, всё в норме");
         }
@@ -107,12 +107,76 @@ namespace Hometask2
             Console.WriteLine(DefineInd(index));
             Console.WriteLine(Correction(weight1,height1, index));
         }
+
+        /*Приходько Написать программу подсчета количества «хороших» чисел в диапазоне 
+         * от 1 до 1 000 000 000. «Хорошим» называется число, которое делится 
+         * на сумму своих цифр.Реализовать подсчёт времени выполнения программы, 
+         * используя структуру DateTime.*/
+
+        const int HighLimit = 1000000000;
+        static uint SumDig(uint Dig)
+        {
+            if (Dig == 0) return 0;
+            else
+            {
+                return ((Dig % 10)+ SumDig(Dig / 10));
+            }
+        }
+
+        static uint GoodDigRecursion(uint i)
+        {
+            if (i == 1) return 1; else
+            {
+                if (i % SumDig(i) == 0) 
+                return (1 + GoodDigRecursion(i - 1));
+                    else
+                return GoodDigRecursion(i - 1);
+            }
+        }
+
+         static uint GoodDigBar()       //для интереса, насколько дольше будет выполняться при добавлении
+            {                               //8 действий
+                ushort Sum = 0;
+            for (uint i = 0; i <= 99; i++)
+            {
+                for (uint j = 1; j <= 10000000; j++)    
+                    if ((i * 10000000 + j) % SumDig(i * 10000000 + j) == 0) Sum++;
+                Console.SetCursorPosition(1, 2);
+                Console.WriteLine(i+1 + "% готово"); 
+            }
+                return Sum;
+            
+            }
+        static uint GoodDig()
+        {
+            ushort Sum = 0;
+            for (uint i = 1; i <= HighLimit; i++)
+            {
+                    if (i % SumDig(i) == 0) Sum++;
+            }
+            return Sum;
+        }
+
+
         static void Main(string[] args)
         {
+
             // IODigNumber();
             //Console.WriteLine(Sum());
             //Check();
-            MainDefInd();
+            //MainDefInd();
+            DateTime Start = DateTime.Now;
+            Console.WriteLine(GoodDigBar());
+            Console.WriteLine($"Выполнено за {DateTime.Now-Start:hh\\:mm\\:ss} секунд");
+
+            Start = DateTime.Now;
+            Console.WriteLine(GoodDig());
+            Console.WriteLine($"Выполнено за {(DateTime.Now - Start):hh\\:mm\\:ss} секунд");
+
+            /*Start = DateTime.Now;             //рекурсивный вообще выпал на 10000
+            Console.WriteLine(GoodDigRecursion(HighLimit));
+            Finish = DateTime.Now;
+            Console.WriteLine($"Выполнено за {(Finish - Start):hh\\:mm\\:ss} секунд");*/
             Console.WriteLine();
 
         }
