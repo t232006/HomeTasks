@@ -35,15 +35,16 @@ namespace hometask4
         
         static void Main(string[] args)
         {
-            //MyArray m = new MyArray(20,-10,10);
-            //MyArray m = new MyArray(20, -50, -30);
+            //MyArray m = new MyArray(20,-10,10);               //constructor for 1st task
+            //MyArray m = new MyArray(20, -50, (short)-30);     //constructor for 2nd task
+
+            /*Console.WriteLine(m.CheckPairs(3));               //Outputs amount of pairs
+            m.OutMas();                                         //Outputs array     
+            m.PrintJournal();                                   //Outputs list of elemtnts and them amount
+            //int[] mm = ReadFromFile("MasFile.txt");           //Static method for file reading
+            //WriteToFile(mm, "MasFile1.txt");*/                //For previous method validation
             LoginCheck lch = new LoginCheck();
-            lch.Check();
-            /*Console.WriteLine(m.CheckPairs(3));
-            m.OutMas();
-            m.PrintJournal();
-            //int[] mm = ReadFromFile("MasFile.txt");
-            //WriteToFile(mm, "MasFile1.txt");*/
+            lch.Check();                                        //Login Check
             Console.WriteLine();
         }
 
