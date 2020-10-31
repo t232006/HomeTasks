@@ -1,0 +1,9 @@
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\bin\Debug\netstandard2.0\MyArray.deps.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\bin\Debug\netstandard2.0\MyArray.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\bin\Debug\netstandard2.0\MyArray.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\obj\Debug\netstandard2.0\MyArray.csprojAssemblyReference.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\obj\Debug\netstandard2.0\MyArray.AssemblyInfoInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\obj\Debug\netstandard2.0\MyArray.AssemblyInfo.cs
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\obj\Debug\netstandard2.0\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\obj\Debug\netstandard2.0\MyArray.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\MyArray\obj\Debug\netstandard2.0\MyArray.pdb
