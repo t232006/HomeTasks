@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pzv498cdtsRTbpcd6C8orgZ2eUB+mTOW+XRQTrzK9Dy5/BlQx4dzXzcbnQanmTRo85Sp0Ax1G4u6PNW3fAxy5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Тим\\Desktop\\практика программирование\\Sharp\\hometask4\\MyArray\\MyArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Тим\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Тим\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

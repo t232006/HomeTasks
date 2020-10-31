@@ -1,0 +1,8 @@
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\obj\Debug\netstandard2.0\loginCheck.AssemblyInfoInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\obj\Debug\netstandard2.0\loginCheck.AssemblyInfo.cs
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\obj\Debug\netstandard2.0\loginCheck.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\bin\Debug\netstandard2.0\loginCheck.deps.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\bin\Debug\netstandard2.0\loginCheck.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\bin\Debug\netstandard2.0\loginCheck.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\obj\Debug\netstandard2.0\loginCheck.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask4\loginCheck\loginCheck\obj\Debug\netstandard2.0\loginCheck.pdb
