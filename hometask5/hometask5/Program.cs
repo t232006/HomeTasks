@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -194,6 +195,57 @@ namespace hometask5
             }
         }
         #endregion
+        struct quest
+        {
+            public string question;
+            public bool answer;
+        }
+        
+        static quest[] readfile1(string filename)
+        {
+            quest[] mas = new quest[5];     //conteiner for 5 questions
+            List<byte> cont = new List<byte>(); //conteiner for unique selection
+            Random d = new Random(); byte dd;   //generator of questions
+            for (byte i = 0; i < 5; i++)    //5 iterations
+            {
+                using (StreamReader f = new StreamReader(filename)) //to kill variable
+                {
+                    do
+                        dd = (byte)d.Next();    //generating another question
+                    while (cont.Contains(dd));  //controlling unique question
+                    cont.Add(dd);           //have found unique, adding to conteiner-it has stopped be unique
+                    for (byte ii = 0; ii < dd; ii++)    //moving along file to appropriate string according number
+                    {
+                        f.ReadLine();       //dropping through 2 strings
+                        f.ReadLine();
+                    }
+                    mas[i].question = f.ReadLine();
+                    mas[i].answer = (f.ReadLine() == "верно" ? true : false);
+                }
+            }
+            return mas;
+        }
+        static void InputQuest(string filename)
+        {
+            byte score = 0;
+            quest[] mas = new quest[5];
+            mas = readfile1(filename);
+            for (byte i = 0; i < 5; i++)
+            {
+                Console.WriteLine(mas[i].question);
+                Console.WriteLine("1-Верно \n 2-Неверно");
+                char key; bool youranswer;
+                do
+                { 
+                    key = Console.ReadKey().KeyChar;
+                    youranswer = key == '1' ? true : false; 
+                }
+                while (key != '1' && key != '2');
+                if (youranswer == mas[i].answer) score++;
+                Console.Clear();
+            }
+            Console.WriteLine("Вы правильно ответили на "+score+" вопросов");
+        }
         static void Main(string[] args)
         {
             /*string log = Console.ReadLine();
@@ -205,7 +257,8 @@ namespace hometask5
             
             Console.WriteLine(Comparison1(s1, s2));
             Console.WriteLine(Comparison2(s1, s2));*/
-            readFile("Pupils.txt");
+            //readFile("Pupils.txt");
+            InputQuest("Believe.txt");
             Console.ReadKey();
         }
     }
