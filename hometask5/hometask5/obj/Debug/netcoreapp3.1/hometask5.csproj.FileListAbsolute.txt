@@ -1,0 +1,13 @@
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\bin\Debug\netcoreapp3.1\hometask5.exe
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\bin\Debug\netcoreapp3.1\hometask5.deps.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\bin\Debug\netcoreapp3.1\hometask5.runtimeconfig.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\bin\Debug\netcoreapp3.1\hometask5.runtimeconfig.dev.json
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\bin\Debug\netcoreapp3.1\hometask5.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\bin\Debug\netcoreapp3.1\hometask5.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.csprojAssemblyReference.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.AssemblyInfoInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.AssemblyInfo.cs
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.dll
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\hometask5\hometask5\obj\Debug\netcoreapp3.1\hometask5.genruntimeconfig.cache
