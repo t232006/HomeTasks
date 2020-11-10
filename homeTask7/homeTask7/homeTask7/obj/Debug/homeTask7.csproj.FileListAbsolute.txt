@@ -1,0 +1,10 @@
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\bin\Debug\homeTask7.exe.config
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\bin\Debug\homeTask7.exe
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\bin\Debug\homeTask7.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.csprojAssemblyReference.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.Form1.resources
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.Properties.Resources.resources
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.csproj.GenerateResource.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.exe
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask7\homeTask7\homeTask7\obj\Debug\homeTask7.pdb
