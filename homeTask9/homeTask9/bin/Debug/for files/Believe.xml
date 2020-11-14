@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<ArrayOfBlock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\bin\Debug\for files\Believe.xml">
+  <block>
+    <getanswer>-1</getanswer>
+    <question>Выпуск закрылков на самолетах семейства Боинг нужно начинать не позднее достижения скорости Vref+80?</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>Основная тормозная система в Б757 завязана на правой гидросистеме</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>Освещение приборов питается от Utility Bus</question>
+    <answer>false</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>При полетах в условиях низкой облачности не рекомендуется включать посадочные фары</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>При посадке по CAT II возможен manual landing</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>Engine antiice необходимо включать при попадании в зону облачности при SAT&lt;10C</question>
+    <answer>false</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>При использовании режима FLCH автопилот не обеспечивает защиту от overspeed</question>
+    <answer>false</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>При использовании режим VNAV без speed intervention обеспечивается защита от превышения скорости с выпущенными закрылками</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>Дистанция между  осевыми огнями ВПП составляет 30 м.</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>Дистанция между боковыми огнями ВПП составляет 15 м.</question>
+    <answer>true</answer>
+  </block>
+  <block>
+    <getanswer>-1</getanswer>
+    <question>При расчете безопасных высот выше FAF (FAP) нужно учитывать температурную поправку (по России)</question>
+    <answer>false</answer>
+  </block>
+</ArrayOfBlock>

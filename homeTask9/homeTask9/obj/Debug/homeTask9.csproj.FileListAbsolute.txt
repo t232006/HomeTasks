@@ -1,0 +1,12 @@
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\bin\Debug\homeTask9.exe.config
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\bin\Debug\homeTask9.exe
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\bin\Debug\homeTask9.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.csprojAssemblyReference.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.Form1.resources
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.Properties.Resources.resources
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.csproj.GenerateResource.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.csproj.CoreCompileInputs.cache
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.exe
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.pdb
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.Form2.resources
+C:\Users\Тим\Desktop\практика программирование\Sharp\homeTask9\homeTask9\obj\Debug\homeTask9.Help.resources
